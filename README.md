@@ -4,7 +4,7 @@ This is an example file with default selections.
 
 ## Install
 
-Make sure you have Node.js and the Heroku Toolbelt installed.
+> Please make sure you have Node.js and the Heroku Toolbelt installed.
 ```sh
 git clone git@github.com:heroku/node-js-sample.git # or clone your own fork
 cd node-js-sample
