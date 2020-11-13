@@ -28,7 +28,7 @@ Your app should now be running on localhost:5000.
 
 ## How to check the work
 ```
-curl http://127.0.0.1:5001/setings
+curl http://127.0.0.1:5001/settings
 ```
 You should see an answer
 ```
