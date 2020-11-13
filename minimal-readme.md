@@ -8,7 +8,7 @@ Description .........
 
 ## Pre-Install
 
-> Please make sure you have Node.js and the Heroku Toolbelt installed.
+Please make sure you have Node.js,npm,yarn and the Heroku Toolbelt installed.
 
 ## Install
 
