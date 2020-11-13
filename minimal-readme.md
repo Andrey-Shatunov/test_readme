@@ -6,9 +6,13 @@ This is an example file with default selections.
 
 Description .........
 
-## Install
+## Pre-Install
 
 > Please make sure you have Node.js and the Heroku Toolbelt installed.
+
+## Install
+
+
 ```sh
 git clone git@github.com:heroku/node-js-sample.git # or clone your own fork
 cd node-js-sample
