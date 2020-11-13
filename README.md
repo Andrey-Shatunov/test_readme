@@ -2,7 +2,7 @@
 
 This is an example file with default selections.
 
-##Install
+## Install
 
 Make sure you have Node.js and the Heroku Toolbelt installed.
 ```sh
@@ -13,20 +13,20 @@ npm run-script build
 ```
 
 
-##Configs
+## Configs
 
 This project uses configs ... .env
 ```
 ```
 
-##QUICK START
+## Quick start
 
 ```
 npm start
 ```
 Your app should now be running on localhost:5000. 
 
-##How check work
+## How check work
 
 ```
 curl http://127.0.0.1:5001/setings
