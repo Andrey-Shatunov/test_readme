@@ -1,1 +1,32 @@
-# test_readme
+Title
+
+This is an example file with default selections.
+
+Install
+Make sure you have Node.js and the Heroku Toolbelt installed.
+```sh
+git clone git@github.com:heroku/node-js-sample.git # or clone your own fork
+cd node-js-sample
+npm install
+npm run-script build 
+```
+
+
+Configs
+This project uses configs ... .env
+```
+```
+
+QUICK START
+```
+npm start
+```
+Your app should now be running on localhost:5000. 
+
+How check work
+
+```
+curl http://127.0.0.1:5001/setings
+```
+
+
