@@ -2,6 +2,10 @@
 
 This is an example file with default selections.
 
+# Description
+
+Description .........
+
 ## Install
 
 > Please make sure you have Node.js and the Heroku Toolbelt installed.
