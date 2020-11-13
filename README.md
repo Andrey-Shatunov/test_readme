@@ -26,10 +26,16 @@ npm start
 ```
 Your app should now be running on localhost:5000. 
 
-## How check work
-
+## How to check the work
 ```
 curl http://127.0.0.1:5001/setings
+```
+You should see an answer
+```
+{
+statusCode: ...,
+message: "..."
+}
 ```
 
 
