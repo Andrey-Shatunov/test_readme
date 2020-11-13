@@ -24,7 +24,7 @@ This project uses configs ... .env
 ```
 npm start
 ```
-Your app should now be running on (localhost:5000). 
+Your app should now be running on [http://localhost:5000](http://localhost:5000). 
 
 ## How to check the work
 ```
